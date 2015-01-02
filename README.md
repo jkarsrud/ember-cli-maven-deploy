@@ -1,5 +1,7 @@
 # Ember-cli-maven-deploy
 
+Ember-CLI command to deploy files to Maven repos
+
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
