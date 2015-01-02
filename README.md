@@ -1,6 +1,6 @@
 # Ember-cli-maven-deploy
 
-Ember-CLI command to deploy files to Maven repos
+Ember-CLI command to deploy files to Maven repos, wrapping [Finn.no's maven-deploy package](https://github.com/finn-no/maven-deploy)
 
 This README outlines the details of collaborating on this Ember addon.
 

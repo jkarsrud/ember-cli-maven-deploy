@@ -1,0 +1,16 @@
+{
+  "groupId": "<%= dasherizedPackageName %>",
+  "artifactId": "{name}",
+  "buildDir": "dist",
+  "finalName": "{name}",
+  "type": "war",
+  "fileEncoding": "utf-8",
+  "repositories": [
+    {
+      "id": "example-internal-snapshot",
+      "url": "http://mavenproxy.example.com/example-internal-snapshot/",
+      "goal": "deploy",
+      "snapshot": true
+    }
+  ]
+}

@@ -11,11 +11,11 @@
     "build": "ember build",
     "test": "ember test"
   },
-  "repository": "",
+  "repository": "https://github.knowit.no/jeskar/ember-cli-maven-deploy",
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "Jesper Haug Karsrud",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.0",
@@ -33,9 +33,15 @@
     "glob": "^4.0.5"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "maven",
+    "nexus"
   ],
   "ember-addon": {
     "configPath": "tests/dummy/config"
+  },
+  "dependencies": {
+    "maven-deploy": "0.0.3",
+    "rsvp": "^3.0.16"
   }
 }
