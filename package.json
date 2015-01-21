@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-maven-deploy",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.1.0",
+  "description": "Deploy your Ember-CLI apps using Maven",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -11,7 +11,7 @@
     "build": "ember build",
     "test": "ember test"
   },
-  "repository": "https://github.knowit.no/jeskar/ember-cli-maven-deploy",
+  "repository": "https://github.com/jkarsrud/ember-cli-maven-deploy",
   "engines": {
     "node": ">= 0.10.0"
   },
