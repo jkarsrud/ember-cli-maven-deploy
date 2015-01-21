@@ -1,11 +1,9 @@
 {
   "groupId": "org.example.com",
   "artifactId": "{{name}}",
-  "buildDir": "dist",
   "fileName": "{{name}}",
   "type": "zip",
   "fileEncoding": "utf-8",
-  "includeDestFolder": "false",
   "repositories": [
     {
       "id": "example-internal-snapshot",
