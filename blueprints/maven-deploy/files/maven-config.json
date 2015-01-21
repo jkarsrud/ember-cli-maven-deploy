@@ -1,10 +1,11 @@
 {
-  "groupId": "<%= dasherizedPackageName %>",
-  "artifactId": "{name}",
+  "groupId": "org.example.com",
+  "artifactId": "{{name}}",
   "buildDir": "dist",
-  "finalName": "{name}",
-  "type": "war",
+  "fileName": "{{name}}",
+  "type": "zip",
   "fileEncoding": "utf-8",
+  "includeDestFolder": "false",
   "repositories": [
     {
       "id": "example-internal-snapshot",
