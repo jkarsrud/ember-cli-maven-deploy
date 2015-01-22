@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-maven-deploy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Deploy your Ember-CLI apps using Maven",
   "directories": {
     "doc": "doc",
