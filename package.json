@@ -45,7 +45,7 @@
     "fs-walk": "0.0.1",
     "isbinaryfile": "^2.0.3",
     "jszip": "^2.4.0",
-    "rsvp": "^3.0.16",
+    "rsvp": "^3.0.18",
     "util-extend": "^1.0.1"
   }
 }
