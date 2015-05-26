@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.4
+
+* Removes a check when walking the output tree that would exclude files if they had the same name as the app
+
 ## 0.1.1
 
 * Added support for the following options:
